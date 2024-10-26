@@ -1,0 +1,61 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags: []
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - Ground
+  - Climbing
+  - Character
+  - Background
+  - Mushroom
+  - Enemies
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Background
+    uniqueID: 3665392949
+    locked: 0
+  - name: Platform
+    uniqueID: 2632274591
+    locked: 0
+  - name: Ladder
+    uniqueID: 3845790131
+    locked: 0
+  - name: Coin
+    uniqueID: 121726087
+    locked: 0
+  - name: Enemies
+    uniqueID: 808723481
+    locked: 0
+  - name: Character
+    uniqueID: 63207431
+    locked: 0
